@@ -2,3 +2,6 @@ aamir
 azeem
 sahil
 sameer
+// Both features were needed
+chant sanni
+chant sammi
